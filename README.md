@@ -1,5 +1,22 @@
-# 💫 About Me:
-¡Hola mundo! 👋 Soy un joven desarrollador ecuatoriano de 22 años con una pasión desbordante por la programación y la innovación tecnológica. 🚀<br><br>🌟 Características principales:<br>- Aprendizaje rápido y adaptabilidad: siempre en actualización<br>- Entusiasmo por nuevos desafíos: nivel experto<br>- Colaboración en equipo: configurado para modo turbo<br><br>💻 Mi código es mi lienzo, y cada proyecto es una obra maestra en progreso. Me emociona explorar nuevas tecnologías y contribuir a soluciones que marquen la diferencia.<br><br>🌴 Desde las vibrantes tierras de Ecuador, estoy listo para dejar mi huella en el mundo digital global. Busco constantemente oportunidades para crecer, aprender y superar límites.<br><br>🔍 En búsqueda activa de:<br>- Proyectos desafiantes que me permitan expandir mis habilidades<br>- Mentores inspiradores y compañeros de equipo apasionados<br>- Oportunidades para convertir ideas innovadoras en realidad<br><br>💡 ¿Tienes un proyecto emocionante? ¡Hablemos! Estoy ansioso por aportar mi energía, creatividad y determinación a tu equipo.<br><br>🚀 Preparado para despegar hacia nuevos horizontes en el desarrollo de software.
+Hello world! 👋 I'm a 22-year-old Ecuadorian developer with an overflowing passion for programming and technological innovation. 🚀
+
+🌟 Key features:
+- Fast learning and adaptability: always updating
+- Enthusiasm for new challenges: expert level
+- Team collaboration: configured for turbo mode
+
+💻 My code is my canvas, and every project is a masterpiece in progress. I'm excited to explore new technologies and contribute to solutions that make a difference.
+
+🌴 From the vibrant lands of Ecuador, I'm ready to make my mark on the global digital world. I constantly seek opportunities to grow, learn, and push boundaries.
+
+🔍 Actively seeking:
+- Challenging projects that allow me to expand my skills
+- Inspiring mentors and passionate teammates
+- Opportunities to turn innovative ideas into reality
+
+💡 Got an exciting project? Let's talk! I'm eager to bring my energy, creativity, and determination to your team.
+
+🚀 Ready to take off towards new horizons in software development.
 
 
 ## 🌐 Socials:

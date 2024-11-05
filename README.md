@@ -17,7 +17,6 @@ Hello world! 👋 I'm a 23-year-old Ecuadorian developer with an overflowing pas
 💡 Got an exciting project? Let's talk! I'm eager to bring my energy, creativity, and determination to your team.
 
 🚀 Ready to take off towards new horizons in software development.
-<img height="210px" alt="GIF" src="https://2.bp.blogspot.com/-EigcASB5K7I/W574Trz5taI/AAAAAAAAAPE/2ighmFLXWc4T6y8jobY_LoBqui0SuI6AwCLcBGAs/s1600/Kellan%252BAt%252BWork.gif"/>
 
 
 ## 🌐 Socials:

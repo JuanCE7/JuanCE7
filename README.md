@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Juan Castillo and I'm a 23-year-old Ecuadorian developer with an overflowing passion for programming and technological innovation. 🚀</h2>
 
 ###
 

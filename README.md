@@ -1,4 +1,4 @@
-# Hi👋, I'm Juan:
+<h1 align="center">Hi👋, I'm Juan Castillo:</h1>
 I'm a 23-year-old Ecuadorian developer with an passion for programming and technological innovation. 🚀
 
 # 💻 Tech Stack:

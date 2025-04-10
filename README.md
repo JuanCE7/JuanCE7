@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋! My name is Juan Castillo and I'm a 23-year-old Ecuadorian developer with an overflowing passion for programming and technological innovation. 🚀
+# Hi👋, I'm Juan:
+I'm a 23-year-old Ecuadorian developer with an passion for programming and technological innovation. 🚀
 
 
 ## 🌐 Socials:

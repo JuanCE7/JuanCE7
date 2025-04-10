@@ -14,10 +14,6 @@ I'm a 23-year-old Ecuadorian developer with an passion for programming and techn
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JuanCE7&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
